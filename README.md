@@ -2,8 +2,6 @@
 
 A modern React application that displays robot friends with search functionality. Built with React 19 and Vite.
 
-![RoboFriends](https://aneagoie.github.io/robofriends-latest/)
-
 ## Features
 
 - **Robot Cards**: Display robot friends fetched from an API
